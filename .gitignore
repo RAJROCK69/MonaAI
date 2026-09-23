@@ -1,0 +1,14 @@
+# Mona AI - Bengali Voice Companion
+
+Mona is an emotional and real-time Bengali AI voice companion built with Python, Ollama, Edge-TTS, and CustomTkinter.
+
+## Features
+- Bengali Speech Recognition
+- Natural Bengali Voice Synthesis (Edge-TTS)
+- Real-time LLM Streaming using Ollama
+- Clean modular architecture
+
+## How to Run
+1. Install dependencies: `pip install -r requirements.txt`
+2. Ensure Ollama is running with your chosen model.
+3. Run: `python main.py`
